@@ -1,0 +1,10 @@
+:root {
+    --negro: #0a0a0a;
+    --rosa: #ef8baa;
+    --rosa-claro: #f6b8cb;
+    --blanco: #ffffff;
+
+    --fuente-titulo: 'Cormarant Garamond', serif;
+    --fuente-script: 'Pinyon Script' serif;
+    --fuente-texto: 'Jost', sans-serif;
+}

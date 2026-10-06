@@ -1,0 +1,19 @@
+@import './styles/variables.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background: var(--negro);
+    color: var(--blanco);
+    font-family: var(--fuente-texto);
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--fuente-titulo);
+    font-weight: 600;
+}
