@@ -1,0 +1,24 @@
+.servicio-card {
+    padding: 1.5rem;
+    border: 1px solid var(--rosa);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.servicio-card__nombre {
+    font-size: 1.5rem;
+    color: var(--rosa-claro);
+}
+
+.servicio-card__descripcion {
+    font-weight: 300;
+    flex-grow: 1;
+}
+
+.servicio-card__precio {
+    font-weight: 500;
+    color: var(--rosa);
+    font-size: 1.2rem;
+}
